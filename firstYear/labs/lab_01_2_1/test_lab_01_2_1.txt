@@ -1,0 +1,6 @@
+Test case:
+1) Input: 0 0; 4 2; 0 4 Output: 90.66219 (isosceles triangle)
+2) Input: 1 1; 3 4; 6 9 Output: 18.87048 (free triangle)
+3) Input: -1 -1; -3 -4; -6 -9 Output: 18.87048 (free triangle)
+4) Input: 1 1; 1 1; 1 1 Output: 0.00000 (all triangle's tops in one point)
+5) Input: 0 0; 0 1; 0 8 Output: 16.00000 (triangle represents section)

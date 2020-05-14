@@ -1,0 +1,6 @@
+Test fot first program:
+1) 2 2 (Input); 4 (Output)
+2) -2 3 (Input); 8 (Output)
+3) 2.3 2 (Input); "Input a = " (Output)
+4) 2 2.3 (Input); "Input n = " (Output)
+5) 2 -2 (Input); "Input n = " (Output)

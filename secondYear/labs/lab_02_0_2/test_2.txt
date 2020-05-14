@@ -1,0 +1,6 @@
+Test for second program:
+1) 0 0 0 5 5 0 (Input) "Right triangle" (Output) 
+2) 0 0 0 8 5 2 (Input) "Acute triangle" (Output)
+3) 0 0 0 5 5 -10 (Input) "Abtuse triangle" (Output)
+4) 0 0 0 0 0 0 (Input) "Input coordinates for rirst apex : " (Output)
+5) 0 0 0 5 0 8 (Input) "Input coordinates for rirst apex : " (Output)

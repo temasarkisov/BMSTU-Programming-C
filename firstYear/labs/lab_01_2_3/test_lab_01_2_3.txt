@@ -1,0 +1,5 @@
+Test case:
+1) Input: 1 1 1 Output: 0.3333
+2) Input: 0 1 1 Output: 0.00000
+3) Input: 2 3 6 Output: 1.00000
+4) Input: -1 -1 -1 Output: -0.33333
